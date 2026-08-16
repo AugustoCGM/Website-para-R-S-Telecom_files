@@ -2,8 +2,8 @@
    VARIÁVEIS DE TEMA (Verde e Modo Claro)
    ========================================= */
 :root {
-  --green-primary: #16a34a;   /* Verde principal */
-  --green-light: #4ade80;     /* Verde claro para gradientes */
+  --green-primary: #6f16a3;   /* Verde principal */
+  --green-light: #2a0055;     /* Verde claro para gradientes */
   --green-dark: #15803d;      /* Verde escuro para hovers */
   --bg-light: #f8fafc;        /* Fundo principal claro */
   --text-main: #1f2937;       /* Texto escuro padrão */
